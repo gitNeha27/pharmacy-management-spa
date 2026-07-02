@@ -1,0 +1,29 @@
+[
+  {
+    "Id": 1,
+    "FullName": "Crocin 650",
+    "Notes": "For fever",
+    "ExpiryDate": "2027-12-31T00:00:00",
+    "Quantity": 50,
+    "Price": 25.50,
+    "Brand": "GSK"
+  },
+  {
+    "Id": 2,
+    "FullName": "test",
+    "Notes": "testing if post is working",
+    "ExpiryDate": "2026-07-23T00:00:00",
+    "Quantity": 19,
+    "Price": 23,
+    "Brand": "test brand"
+  },
+  {
+    "Id": 3,
+    "FullName": "Paracetamol",
+    "Notes": "This one is almost out of stock",
+    "ExpiryDate": "2026-08-20T00:00:00",
+    "Quantity": 7,
+    "Price": 300,
+    "Brand": "Paracetamol"
+  }
+]
